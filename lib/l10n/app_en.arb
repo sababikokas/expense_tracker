@@ -1,0 +1,35 @@
+{
+    "@@locale": "en",
+    "welcomeMessage":"Welcome to your daily\n expense tracker",
+    "welcome":"Welcome",
+    "addExpense":"Add Expense",
+    "viewExpense":"View Expense",
+    "scheduleReminder":"Schedule Reminder",
+    "reminder":"Reminder",
+    "setDailyReminder":"Set Daily Reminder",
+    "scheduleTestNotification":"Schedule Test Notification",
+    "selectTime":"Select Time",
+    "reminderDesc":"You have scheduled your daily reminder at",
+    "amount":"Amount",
+    "addAmount":"Add amount",
+    "description":"Description",
+    "addDescription":"Add description",
+    "category":"Category",
+    "addCategory":"Add category",
+    "saveExpense":"Save Expense",
+    "allExpense":"All expense",
+    "edit":"Edit",
+    "delete":"Delete",
+    "changeLang":"Change Language",
+    "exitApp":"Exit app",
+    "yes":"Yes",
+    "no":"No",
+    "exitApp":"Are you sure you want to exit the app?",
+    "personal":"Personal",
+    "firstExpense":"Add your first expense"
+    
+
+
+
+    
+}
